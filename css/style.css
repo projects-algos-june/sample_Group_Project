@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5755a35501dbae3c6d1ba03e/1568312637968-YRV3RLBTIK7R8Y3DVMX6/ke17ZwdGBToddI8pDm48kBtiJB8V39HAmlEgfnc1zJMUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcRMFN34FFW34-0pTMNI-dB8518ej28AkzbAT3z-c5xGMNkhfeKuK2fxgRha9X3_o-/splatter+paint?format=750w);
+}
+
+.content {
+  margin: auto;
+  border: 1px solid black;
+  max-width: 500px;
+  min-height: 50px;
+}
+
