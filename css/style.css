@@ -15,5 +15,9 @@
   border: 1px solid black;
   max-width: 500px;
   min-height: 50px;
+  display: inline-block;
 }
 
+.content button {
+  border-radius: 8px;
+}
